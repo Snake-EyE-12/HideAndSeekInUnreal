@@ -23,6 +23,7 @@ Installation:
   Download and unzip
 
 Screenshots:
+
 <img width="431" height="347" alt="ware3" src="https://github.com/user-attachments/assets/2f5d0d36-daff-49bc-a9b0-a17ab728c5ce" />
 <img width="304" height="315" alt="ware2" src="https://github.com/user-attachments/assets/5ab2a924-7be1-4923-9f9c-1cc9035b7da4" />
 <img width="512" height="285" alt="ware1" src="https://github.com/user-attachments/assets/adaa6b65-845f-4f00-ade3-2cd37ee33dc9" />
